@@ -1,0 +1,22 @@
+# Excel Merge Macro (VBA)
+
+## Installation
+
+Requirements:
+- MS Excel 2010 or newer
+
+If you receive any error messages pertaining to missing libs, please ensure you have the following references on the machine you are running (VBA->Tools->References):
+- Microsoft Excel 15.0 Object Library
+- Microsoft Office 15.0 Object Library
+- Microsoft Forms 2.0 Object Library
+- Microsoft VBScript Regular Expressions 5.5
+
+## Usage
+
+- Open workbook and enable macros when asked. Open the workbooks/sheets you wish to merge and then click "Launch Merge Data" to bring up form.
+
+## History
+
+## Credits
+
+## License
